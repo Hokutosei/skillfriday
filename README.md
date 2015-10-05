@@ -16,4 +16,4 @@ LT 　　　2人〜
 
 
 ## スケジュール
-は[fusion workflow](https://workflow.luxiar.jp/10_luxiar/sys/schedule_list.asp?ev=list&u=57&g=53)に確認！
+は[fusion workflow]()に確認！
