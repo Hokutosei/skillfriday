@@ -24,7 +24,7 @@
 
 | No #  | メンバーさん | テーマ
 | ------------- | ------------- |
-| 第１  | 中島さん  | ?
-| 第２  | ポ  | Ruby on Rails Dev using Docker
+| 第１  | 中島さん  | ? |
+| 第２  | ポ  | Ruby on Rails Dev using Docker |
 | 第３  | ？ |
 | 第４  | ？  |
