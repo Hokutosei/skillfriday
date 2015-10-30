@@ -35,4 +35,4 @@
 | No #  | メンバーさん | アジェンダ | 時間
 | ------------- | ------------- | ------------- | ------------- |
 | 第１  | 重すさん  | ? | ２０分〜
-| 第２  | ポ  | multi-node docker container scaling | ２０分〜
+| 第２  | ポ  | simple go routine introduction | ２０分〜
