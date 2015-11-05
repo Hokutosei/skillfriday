@@ -36,3 +36,4 @@
 | ------------- | ------------- | ------------- | ------------- |
 | 第１  | 重すさん  | ? | ２０分〜
 | 第２  | ポ  | simple go routine introduction | ２０分〜
+| 第3  | DoorKeeper Paul様  | Stripe Connect | ２０分〜
