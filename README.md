@@ -5,7 +5,7 @@
 エンジニアのため新スキル、勉強、紹介する、発表、共有したいテクノロジー、いろいろ。まぁ発表、
 
 ## venue/会場
-https://www.google.co.jp/maps/dir/''/luxiar/data=!4m5!4m4!1m0!1m2!1m1!1s0x6018f94981b40001:0x918b20628bde0e52?sa=X&ved=0CHUQ9RcwDmoVChMIzNWn-7f5yAIVT8tjCh3uIAGH
+[link](https://www.google.co.jp/maps/dir/''/luxiar/data=!4m5!4m4!1m0!1m2!1m1!1s0x6018f94981b40001:0x918b20628bde0e52?sa=X&ved=0CHUQ9RcwDmoVChMIzNWn-7f5yAIVT8tjCh3uIAGH)
 
 ## 発表者枠についてと参加登録
 * 1人１０〜１５分。どの方でも大丈夫です！私にメッセージください！
